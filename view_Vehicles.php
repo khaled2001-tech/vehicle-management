@@ -288,7 +288,7 @@ top: 0;">
 </div>
 
     <div class="d11">
-        <h1 style="bold;font-size: 44px;">Vehicle management project</h1>
+    <h1 style="font-weight: bold; font-size: 44px;">Vehicle management project</h1>
         
     </div>
     <br>
